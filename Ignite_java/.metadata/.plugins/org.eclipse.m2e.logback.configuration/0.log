@@ -1,0 +1,429 @@
+2018-04-16 11:20:44,849 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-16 11:52:16,398 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2018-04-16 11:52:16,902 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2018-04-16 11:52:17,191 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2018-04-16 11:52:17,564 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2018-04-16 11:53:51,381 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Ignite_java\IgniteJavaFirst\pom.xml
+2018-04-16 11:53:54,944 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2018-04-16 11:53:55,990 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2018-04-16 11:54:03,373 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 11:54:05,109 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2018-04-16 11:54:05,426 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2018-04-16 11:54:06,396 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2018-04-16 11:54:06,698 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2018-04-16 11:54:07,096 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2018-04-16 11:54:08,391 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2018-04-16 11:54:13,404 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgniteJavaFirst/src/main/java
+2018-04-16 11:54:13,427 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IgniteJavaFirst/src/test/java
+2018-04-16 11:54:17,854 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 26 sec
+2018-04-16 11:54:19,557 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 11:54:19,558 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 11:54:19,564 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 11:54:19,565 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:07:19,751 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:07:21,218 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/3.8.1/ignite-core-3.8.1.pom
+2018-04-16 12:07:21,231 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:22,449 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/3.8.1/ignite-spring-3.8.1.pom
+2018-04-16 12:07:22,459 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:23,712 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/3.8.1/ignite-indexing-3.8.1.pom
+2018-04-16 12:07:23,730 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:25,321 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/3.8.1/ignite-core-3.8.1.jar
+2018-04-16 12:07:26,539 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/3.8.1/ignite-spring-3.8.1.jar
+2018-04-16 12:07:27,729 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/3.8.1/ignite-indexing-3.8.1.jar
+2018-04-16 12:07:28,462 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,540 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,673 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,705 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,715 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,728 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:07:28,893 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:07:28,894 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:07:28,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:07:28,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:10:13,539 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:10:13,545 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:13,564 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:13,605 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,142 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,194 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:10:14,194 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:10:14,197 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:10:14,198 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:10:14,430 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,558 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,800 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,843 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:10:14,884 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1 is missing, no dependency information available
+2018-04-16 12:14:11,645 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:14:12,017 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:14:12,018 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:14:12,022 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:14:12,022 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:14:13,713 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:14:13,714 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:14:13,716 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:14:13,717 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:18:18,976 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:18:18,976 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:18:18,976 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:18:18,976 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:21:51,750 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:21:51,750 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:21:51,766 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:21:51,766 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:22:57,373 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:22:57,373 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:22:57,389 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:22:57,389 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:29:04,082 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:29:04,082 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:29:04,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:29:04,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:31:13,184 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:31:13,184 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:31:13,200 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:31:13,200 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:31:35,236 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:31:35,236 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:31:35,236 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:31:35,236 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:34:23,503 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:34:23,503 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:34:23,519 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:34:23,519 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:35:35,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:35:35,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:35:35,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:35:35,913 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:41:30,308 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:41:30,308 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:41:30,323 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:41:30,323 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:42:02,755 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:42:04,153 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/1.5.0-b1/ignite-core-1.5.0-b1.pom
+2018-04-16 12:42:04,560 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/1.5.0-b1/ignite-core-1.5.0-b1.pom
+2018-04-16 12:42:04,928 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.pom
+2018-04-16 12:42:05,332 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.pom
+2018-04-16 12:42:05,800 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-04-16 12:42:06,091 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-04-16 12:42:06,415 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/1.5.0-b1/ignite-spring-1.5.0-b1.pom
+2018-04-16 12:42:06,826 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/1.5.0-b1/ignite-spring-1.5.0-b1.pom
+2018-04-16 12:42:07,138 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.pom
+2018-04-16 12:42:07,435 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.pom
+2018-04-16 12:42:07,810 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2018-04-16 12:42:08,185 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2018-04-16 12:42:08,475 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-04-16 12:42:09,057 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-04-16 12:42:09,390 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.0.RELEASE/spring-aop-4.1.0.RELEASE.pom
+2018-04-16 12:42:09,695 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.0.RELEASE/spring-aop-4.1.0.RELEASE.pom
+2018-04-16 12:42:09,978 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2018-04-16 12:42:10,275 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2018-04-16 12:42:10,553 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.pom
+2018-04-16 12:42:10,912 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.pom
+2018-04-16 12:42:11,317 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.pom
+2018-04-16 12:42:11,629 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.pom
+2018-04-16 12:42:11,911 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.0.RELEASE/spring-expression-4.1.0.RELEASE.pom
+2018-04-16 12:42:12,206 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.0.RELEASE/spring-expression-4.1.0.RELEASE.pom
+2018-04-16 12:42:12,491 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.0.RELEASE/spring-tx-4.1.0.RELEASE.pom
+2018-04-16 12:42:12,788 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.0.RELEASE/spring-tx-4.1.0.RELEASE.pom
+2018-04-16 12:42:13,074 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.0.RELEASE/spring-jdbc-4.1.0.RELEASE.pom
+2018-04-16 12:42:13,386 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.0.RELEASE/spring-jdbc-4.1.0.RELEASE.pom
+2018-04-16 12:42:13,683 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-04-16 12:42:14,011 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-04-16 12:42:14,293 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-04-16 12:42:14,606 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-04-16 12:42:14,919 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/1.5.0-b1/ignite-core-1.5.0-b1.jar
+2018-04-16 12:42:18,545 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/1.5.0-b1/ignite-core-1.5.0-b1.jar
+2018-04-16 12:42:18,810 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-04-16 12:42:19,989 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-04-16 12:42:20,246 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-04-16 12:42:20,545 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-04-16 12:42:20,798 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/1.5.0-b1/ignite-spring-1.5.0-b1.jar
+2018-04-16 12:42:21,308 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/1.5.0-b1/ignite-spring-1.5.0-b1.jar
+2018-04-16 12:42:21,575 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.jar
+2018-04-16 12:42:22,070 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.jar
+2018-04-16 12:42:22,334 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.0.RELEASE/spring-aop-4.1.0.RELEASE.jar
+2018-04-16 12:42:22,709 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.0.RELEASE/spring-aop-4.1.0.RELEASE.jar
+2018-04-16 12:42:22,956 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2018-04-16 12:42:23,231 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2018-04-16 12:42:23,484 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar
+2018-04-16 12:42:23,922 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar
+2018-04-16 12:42:24,181 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.jar
+2018-04-16 12:42:24,665 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.jar
+2018-04-16 12:42:24,931 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.0.RELEASE/spring-expression-4.1.0.RELEASE.jar
+2018-04-16 12:42:25,352 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.0.RELEASE/spring-expression-4.1.0.RELEASE.jar
+2018-04-16 12:42:25,618 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.0.RELEASE/spring-tx-4.1.0.RELEASE.jar
+2018-04-16 12:42:26,009 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.1.0.RELEASE/spring-tx-4.1.0.RELEASE.jar
+2018-04-16 12:42:26,267 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.0.RELEASE/spring-jdbc-4.1.0.RELEASE.jar
+2018-04-16 12:42:26,704 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.1.0.RELEASE/spring-jdbc-4.1.0.RELEASE.jar
+2018-04-16 12:42:26,954 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-04-16 12:42:27,340 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-04-16 12:42:33,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:42:33,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:42:33,956 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:42:33,956 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:42:39,679 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:42:41,037 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:42:41,037 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:42:41,052 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:42:41,052 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:45:17,524 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:45:17,524 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:45:17,526 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:45:17,527 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:49:07,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:49:07,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:49:07,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:49:07,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:49:20,558 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:49:20,558 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:49:20,558 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:49:20,558 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:56:21,588 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 12:56:22,990 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0/ignite-core-2.4.0.pom
+2018-04-16 12:56:23,344 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0/ignite-core-2.4.0.pom
+2018-04-16 12:56:23,922 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-04-16 12:56:24,273 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-04-16 12:56:24,664 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0/ignite-spring-2.4.0.pom
+2018-04-16 12:56:24,961 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0/ignite-spring-2.4.0.pom
+2018-04-16 12:56:25,294 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.4.0/ignite-indexing-2.4.0.pom
+2018-04-16 12:56:25,591 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.4.0/ignite-indexing-2.4.0.pom
+2018-04-16 12:56:25,896 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2018-04-16 12:56:26,222 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2018-04-16 12:56:26,503 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2018-04-16 12:56:27,054 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2018-04-16 12:56:27,617 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-04-16 12:56:28,054 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-04-16 12:56:28,351 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-04-16 12:56:28,648 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-04-16 12:56:28,929 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-04-16 12:56:31,305 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-04-16 12:56:31,727 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-04-16 12:56:32,121 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-04-16 12:56:32,428 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-04-16 12:56:32,725 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-04-16 12:56:33,070 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-04-16 12:56:33,363 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-04-16 12:56:33,660 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-04-16 12:56:34,045 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-04-16 12:56:34,391 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-04-16 12:56:34,654 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-04-16 12:56:34,951 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.pom
+2018-04-16 12:56:35,265 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.pom
+2018-04-16 12:56:35,560 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2018-04-16 12:56:35,956 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2018-04-16 12:56:36,273 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-04-16 12:56:36,744 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-04-16 12:56:37,050 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.pom
+2018-04-16 12:56:37,492 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.pom
+2018-04-16 12:56:37,857 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.pom
+2018-04-16 12:56:38,138 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.pom
+2018-04-16 12:56:38,480 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.pom
+2018-04-16 12:56:38,828 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.pom
+2018-04-16 12:56:39,307 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.pom
+2018-04-16 12:56:39,589 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.pom
+2018-04-16 12:56:39,875 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.pom
+2018-04-16 12:56:40,159 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.pom
+2018-04-16 12:56:40,487 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.pom
+2018-04-16 12:56:40,783 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.pom
+2018-04-16 12:56:41,199 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0/ignite-core-2.4.0.jar
+2018-04-16 12:57:00,429 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0/ignite-core-2.4.0.jar
+2018-04-16 12:57:00,688 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-04-16 12:57:01,746 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-04-16 12:57:02,020 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0/ignite-spring-2.4.0.jar
+2018-04-16 12:57:02,751 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0/ignite-spring-2.4.0.jar
+2018-04-16 12:57:03,013 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar
+2018-04-16 12:57:04,917 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar
+2018-04-16 12:57:05,179 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.jar
+2018-04-16 12:57:05,955 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.jar
+2018-04-16 12:57:06,210 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar
+2018-04-16 12:57:07,512 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar
+2018-04-16 12:57:07,762 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar
+2018-04-16 12:57:09,382 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar
+2018-04-16 12:57:09,648 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.jar
+2018-04-16 12:57:10,211 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.jar
+2018-04-16 12:57:10,461 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.jar
+2018-04-16 12:57:11,047 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.jar
+2018-04-16 12:57:11,294 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar
+2018-04-16 12:57:11,993 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar
+2018-04-16 12:57:12,263 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.4.0/ignite-indexing-2.4.0.jar
+2018-04-16 12:57:13,148 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.4.0/ignite-indexing-2.4.0.jar
+2018-04-16 12:57:13,413 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2018-04-16 12:57:13,954 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2018-04-16 12:57:14,231 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-04-16 12:57:16,757 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-04-16 12:57:17,023 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-04-16 12:57:18,882 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-04-16 12:57:19,154 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-04-16 12:57:20,032 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-04-16 12:57:20,319 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-04-16 12:57:20,866 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-04-16 12:57:21,118 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-04-16 12:57:21,602 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-04-16 12:57:21,868 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-04-16 12:57:24,496 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-04-16 12:57:31,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:57:31,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:57:31,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:57:31,294 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 12:57:33,905 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:57:33,905 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 12:57:33,905 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 12:57:33,905 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 13:02:29,444 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 13:02:30,972 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/3.8.1-b1/ignite-core-3.8.1-b1.pom
+2018-04-16 13:02:30,988 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:32,365 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/3.8.1-b1/ignite-spring-3.8.1-b1.pom
+2018-04-16 13:02:32,381 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:33,542 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/3.8.1-b1/ignite-indexing-3.8.1-b1.pom
+2018-04-16 13:02:33,558 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:34,759 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/3.8.1-b1/ignite-core-3.8.1-b1.jar
+2018-04-16 13:02:35,929 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/3.8.1-b1/ignite-spring-3.8.1-b1.jar
+2018-04-16 13:02:37,148 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/3.8.1-b1/ignite-indexing-3.8.1-b1.jar
+2018-04-16 13:02:37,371 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:37,444 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:37,494 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:02:37,495 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 13:02:37,502 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:02:37,507 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 13:02:37,607 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:37,731 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:37,840 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:02:37,856 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-indexing:jar:3.8.1-b1 is missing, no dependency information available
+2018-04-16 13:04:04,517 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 13:04:05,278 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:04:05,278 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 13:04:05,309 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:04:05,309 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 13:04:07,272 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:04:07,272 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 13:04:07,288 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 13:04:07,288 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:31:11,305 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-16 17:35:57,941 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-16 17:37:16,814 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 17:37:25,797 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:37:25,797 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:37:25,809 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:37:25,810 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:37:29,681 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:37:29,682 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:37:29,686 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:37:29,687 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:38:14,088 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:38:14,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:38:14,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:38:14,091 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:41:40,645 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:41:40,647 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:41:40,649 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:41:40,649 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:42:21,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:42:21,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:42:21,635 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:42:21,636 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:42:36,357 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:42:36,358 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:42:36,360 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:42:36,361 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 17:43:25,785 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:43:25,785 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 17:43:25,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 17:43:25,797 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:22:19,810 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-16 18:33:33,052 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:33:33,217 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:33:33,226 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:33:33,227 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:34:03,522 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:34:03,523 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:34:03,526 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:34:03,526 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:38:39,613 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:38:39,614 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:38:39,616 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:38:39,616 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:39:29,458 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 18:39:31,586 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0-b1/ignite-core-2.4.0-b1.pom
+2018-04-16 18:39:31,600 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-core:jar:2.4.0-b1 is missing, no dependency information available
+2018-04-16 18:39:32,843 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0-b1/ignite-spring-2.4.0-b1.pom
+2018-04-16 18:39:32,867 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.ignite:ignite-spring:jar:2.4.0-b1 is missing, no dependency information available
+2018-04-16 18:39:34,200 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.4.0-b1/ignite-core-2.4.0-b1.jar
+2018-04-16 18:39:35,415 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.4.0-b1/ignite-spring-2.4.0-b1.jar
+2018-04-16 18:39:37,158 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:39:37,159 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:39:37,162 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:39:37,163 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:39:59,446 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-16 18:40:02,826 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:40:02,826 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:40:02,832 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:40:02,833 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:40:06,903 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:40:06,904 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:40:06,933 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:40:06,933 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:41:52,765 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:41:52,781 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:41:52,781 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:41:52,781 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:43:42,373 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:43:42,373 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:43:42,373 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:43:42,373 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 18:45:35,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:45:35,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 18:45:35,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 18:45:35,319 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:03:18,263 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:03:18,264 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:03:18,268 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:03:18,268 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:21:48,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:21:48,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:21:48,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:21:48,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:26:32,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:26:32,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:26:32,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:26:32,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:28:44,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:28:44,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:28:44,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:28:44,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:29:23,573 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:29:23,573 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:29:23,589 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:29:23,589 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:43:02,363 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:43:02,363 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:43:02,363 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:43:02,363 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:43:49,694 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:43:49,694 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:43:49,725 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:43:49,725 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:47:05,948 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:47:05,948 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:47:05,948 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:47:05,948 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:48:49,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:48:49,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:48:49,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:48:49,148 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:49:14,603 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:14,603 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:49:14,603 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:14,603 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:49:37,714 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:37,729 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:49:37,729 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:37,729 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:49:57,301 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:57,301 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:49:57,301 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:49:57,301 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
