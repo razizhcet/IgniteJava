@@ -1,0 +1,5 @@
+package IgniteBizJava.IgniteJavaFirst;
+
+public class Message {
+
+}

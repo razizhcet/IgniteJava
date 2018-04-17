@@ -9,8 +9,10 @@ public class HelloWorld
 {
 	public static void main(String[] args) throws IgniteException
 	{
-	    try (Ignite ignite = Ignition.start("examples/config/example-ignite.xml"))
+	    try (Ignite ignite = Ignition.start())
 	    {
+	    	ignite.cluster().active(true);
+	    	
 	      IgniteCache<Integer, String> cache = ignite.getOrCreateCache("myCache");
 	      
 	      // Put values in cache.

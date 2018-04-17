@@ -1,0 +1,15 @@
+package IgniteBizJava;
+
+import org.apache.ignite.Ignite;
+import org.apache.ignite.IgniteException;
+import org.apache.ignite.Ignition;
+
+public class GettingStarted {
+	public static void main( String[] args ) throws IgniteException
+    {
+		try(Ignite ignite = Ignition.start("examples/config/example-compute.xml"))
+		{
+			ignite.compute().broadcast(()-> System.out.println("Hello World!"));
+		}
+    }
+}

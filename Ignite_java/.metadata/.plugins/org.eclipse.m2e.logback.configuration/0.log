@@ -427,3 +427,254 @@
 2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
 2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-16 19:50:13,678 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:56:39,029 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:56:39,029 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:56:39,029 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:56:39,029 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 19:57:23,440 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:57:23,441 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 19:57:23,443 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 19:57:23,444 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-16 20:10:31,415 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 20:10:31,415 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-16 20:10:31,415 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-16 20:10:31,415 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:02:56,138 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-17 09:07:55,213 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4533) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4448) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4419) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:482) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:354) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:3724) ~[org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.ui.forms.widgets.ExpandableComposite.reflow(ExpandableComposite.java:1131) ~[na:na]
+	at org.eclipse.ui.forms.widgets.Section.reflow(Section.java:122) ~[na:na]
+	at org.eclipse.ui.forms.widgets.Section.internalSetExpanded(Section.java:113) ~[na:na]
+	at org.eclipse.ui.forms.widgets.ExpandableComposite.setExpanded(ExpandableComposite.java:875) ~[na:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17$1.process(OverviewPage.java:1150) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37) [org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213) [org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820) [org.eclipse.swt.win32.win32.x86_64_3.106.1.v20170926-0519.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150) [org.eclipse.e4.ui.workbench.swt_0.14.101.v20170710-1119.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039) [org.eclipse.e4.ui.workbench.swt_0.14.101.v20170710-1119.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) [org.eclipse.e4.ui.workbench_1.5.1.v20170815-1446.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680) [org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594) [org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.12.50.v20170928-1321.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.12.50.v20170928-1321.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.12.50.v20170928-1321.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.12.50.v20170928-1321.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_151]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+2018-04-17 09:11:17,471 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:11:17,502 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:11:17,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:11:17,515 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:16:07,626 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:16:07,627 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:16:07,630 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:16:07,630 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:20:36,482 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:20:36,482 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:20:36,485 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:20:36,485 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:24:23,762 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:24:23,763 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:24:23,765 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:24:23,765 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:24:37,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:24:37,389 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:24:37,392 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:24:37,393 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:32:06,723 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:32:06,723 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:32:06,742 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:32:06,743 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:32:32,877 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:32:32,877 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:32:32,882 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:32:32,882 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:34:09,572 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-17 09:34:11,903 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:11,904 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:34:11,910 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:11,910 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:34:14,470 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:14,471 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:34:14,476 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:14,476 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:34:24,175 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IgniteBizJava:IgniteJavaFirst:0.0.1-SNAPSHOT @ E:\Ignite_java\IgniteJavaFirst\pom.xml.
+2018-04-17 09:34:24,775 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:24,775 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:34:24,782 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:24,782 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:34:47,599 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:47,599 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:34:47,602 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:34:47,602 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:36:34,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:36:34,989 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:36:34,992 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:36:34,992 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:38:19,258 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:38:19,259 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:38:19,288 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:38:19,289 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:41:12,280 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:12,281 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:41:12,288 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:12,288 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:41:31,981 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:31,982 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:41:31,989 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:31,989 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:41:59,900 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:59,901 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:41:59,914 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:41:59,914 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:43:06,943 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:43:06,944 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:43:06,949 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:43:06,949 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:43:42,567 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:43:42,567 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:43:42,569 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:43:42,569 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:44:22,165 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:44:22,166 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:44:22,168 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:44:22,168 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:44:49,544 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:44:49,545 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:44:49,547 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:44:49,547 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:46:45,820 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:46:45,820 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:46:45,822 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:46:45,822 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:47:09,199 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:09,200 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:47:09,207 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:09,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:47:17,324 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:17,324 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:47:17,326 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:17,326 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:47:35,478 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:35,479 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:47:35,481 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:47:35,481 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:48:25,862 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:48:25,862 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:48:25,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:48:25,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:50:58,577 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:50:58,578 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:50:58,579 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:50:58,581 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:54:13,381 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:54:13,382 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:54:13,383 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:54:13,384 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:55:17,668 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:55:17,668 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:55:17,670 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:55:17,670 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 09:58:44,705 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:58:44,721 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 09:58:44,721 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 09:58:44,721 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:06:20,312 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:06:20,312 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:06:20,312 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:06:20,312 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:06:49,480 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:06:49,480 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:06:49,496 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:06:49,496 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:07:01,747 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:07:01,747 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:07:01,747 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:07:01,747 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:08:16,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:08:16,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:08:16,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:08:16,255 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:12:05,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:12:05,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:12:05,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:12:05,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:12:22,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:12:22,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:12:22,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:12:22,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:13:25,301 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:25,301 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:13:25,301 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:25,301 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:13:40,153 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:40,153 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:13:40,184 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:40,184 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:13:48,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:48,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:13:48,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:13:48,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:16:10,304 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:16:10,304 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:16:10,304 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:16:10,304 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:16:35,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:16:35,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:16:35,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:16:35,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:17:17,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:17:17,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:17:17,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:17:17,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:18:51,181 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:18:51,181 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:18:51,181 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:18:51,181 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:19:26,983 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:19:26,983 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:19:26,983 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:19:26,983 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:30:51,526 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:30:51,526 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:30:51,526 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:30:51,526 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 10:32:03,941 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:32:03,941 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 10:32:03,941 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 10:32:03,941 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 11:44:07,095 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:44:07,098 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 11:44:07,120 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:44:07,122 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 11:51:11,320 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:51:11,320 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 11:51:11,320 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:51:11,320 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 11:52:11,557 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:52:11,557 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 11:52:11,558 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:52:11,559 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
+2018-04-17 11:53:11,029 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:53:11,029 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\main\resources
+2018-04-17 11:53:11,031 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-17 11:53:11,031 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Ignite_java\IgniteJavaFirst\src\test\resources
